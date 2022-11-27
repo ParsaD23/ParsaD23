@@ -23,7 +23,7 @@
   
 ### GitHub stats
  
-| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true) | ![ParsaD23](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaD23&hide=html&layout=compact&theme=transparent&include_all_commits=true&hide_border=true) |
+| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&hide_border=true) | ![ParsaD23](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaD23&hide=html&layout=compact&theme=transparent&include_all_commits=true&hide_border=true) |
 | ------------- | ------------- |
 
 ### Top Repositories:
