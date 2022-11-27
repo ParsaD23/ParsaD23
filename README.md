@@ -12,15 +12,27 @@
   </a>
 </div>
 
-**About me**:
+### About me:
 
 - :school: Currently finishing my MSc degree
-- :computer: Working as a **Data Scientist Intern** at Kantar working on CPG data
-- :racing_car: Passionate about **AI** and **motorsports**!
+- :computer: **Data Scientist Intern** at Kantar working on CPG data
+- :racing_car: Passionate about **AI** and **Motorsports**!
 - :man_technologist: Most of my projects are available on my **[GitHub](https://github.com/ParsaD23)**
 - :e-mail: Reach me at **[dinoco.parsa23@gmail.com](mailto:dinoco.parsa23@gmail.com)**
 
-**My skills**:
+  
+### GitHub stats
+ 
+| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&theme=buefy&show_icons=true&include_all_commits=true&hide_border=true) | ![ParsaD23](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaD23&hide=html&layout=compact&theme=buefy&include_all_commits=true&hide_border=true) |
+| ------------- | ------------- |
+
+### Top Repositories:
+
+![MotoGP-API](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=MotoGP-API&theme=buefy)
+![RL-PSO](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=Racing-Line-Optimization-with-PSO&theme=buefy)
+![kmeans](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=kmeans_OpenMP&theme=buefy)
+
+### My skills:
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,10 +44,3 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  
-  
-| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&theme=transparent&show_icons=true) | ![transparent][transparent_repo] |
-| ------------- | ------------- |
-
-[transparent]: https://github-readme-stats.vercel.app/api?username=ParsaD23&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
-[transparent_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=github-readme-stats&cache_seconds=86400&theme=transparent
