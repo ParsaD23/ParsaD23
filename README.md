@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/ParsaD23/ParsaD23/blob/main/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="center">Hi everyone 👋, I'm Parsa !</h1>
 <h3 align="center">MSc in Artificial Intelligence @ University of Bologna</h3>
@@ -23,14 +23,14 @@
   
 ### GitHub stats
  
-| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&theme=buefy&show_icons=true&include_all_commits=true&hide_border=true) | ![ParsaD23](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaD23&hide=html&layout=compact&theme=buefy&include_all_commits=true&hide_border=true) |
+| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&theme=[theme]&show_icons=true&include_all_commits=true&hide_border=true) | ![ParsaD23](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaD23&hide=html&layout=compact&theme=[theme]&include_all_commits=true&hide_border=true) |
 | ------------- | ------------- |
 
 ### Top Repositories:
 
-![MotoGP-API](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=MotoGP-API&theme=buefy)
-![RL-PSO](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=Racing-Line-Optimization-with-PSO&theme=buefy)
-![kmeans](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=kmeans_OpenMP&theme=buefy)
+![MotoGP-API](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=MotoGP-API&theme=[theme])
+![RL-PSO](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=Racing-Line-Optimization-with-PSO&theme=[theme])
+![kmeans](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=kmeans_OpenMP&theme=[theme])
 
 ### My skills:
 
@@ -44,3 +44,5 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  
+[theme]: transparent
