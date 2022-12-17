@@ -23,19 +23,19 @@
   
 ### GitHub stats:
  
-| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&show_icons=true&count_private=true&include_all_commits=true&hide_border=true) | ![ParsaD23](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaD23&hide=html&layout=compact&include_all_commits=true&hide_border=true) |
+| ![ParsaD23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaD23&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | ![ParsaD23](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaD23&hide=html&theme=transparent&layout=compact&include_all_commits=true&hide_border=true) |
 | ------------- | ------------- |
 
 ### Top Repositories:
 
 <a href="https://github.com/ParsaD23/MotoGP-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=MotoGP-API"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=MotoGP-API&theme=transparent"/>
 </a>
 <a href="https://github.com/ParsaD23/Racing-Line-Optimization-with-PSO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=Racing-Line-Optimization-with-PSO"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=Racing-Line-Optimization-with-PSO&theme=transparent"/>
 </a>
 <a href="https://github.com/ParsaD23/kmeans_OpenMP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=kmeans_OpenMP"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=kmeans_OpenMP&theme=transparent"/>
 </a>
 
 ### My skills:
