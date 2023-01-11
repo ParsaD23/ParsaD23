@@ -12,11 +12,11 @@
   </a>
 </div>
 
-<div align='center'>
+<!-- <div align='center'>
   <a>
     <img src='https://komarev.com/ghpvc/?username=ParsaD23&color=blueviolet&style=for-the-badge'/>
   </a>
-</div>
+</div> -->
 
 ### About me:
 
