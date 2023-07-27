@@ -20,8 +20,7 @@
 
 ### About me:
 
-- :school: Currently finishing my MSc degree
-- :computer: **Data Scientist Intern** at Kantar working on CPG data
+- :computer: **Data Scientist** at Iconsulting currently working on sales forecasting
 - :racing_car: Passionate about **AI** and **Motorsports**!
 - :man_technologist: Most of my projects are available on my **[GitHub](https://github.com/ParsaD23)**
 - :e-mail: Reach me at **[dinoco.parsa23@gmail.com](mailto:dinoco.parsa23@gmail.com)**
