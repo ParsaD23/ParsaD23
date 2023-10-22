@@ -1,7 +1,7 @@
 <img src="https://github.com/ParsaD23/ParsaD23/blob/main/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="center">Hi everyone 👋, I'm Parsa !</h1>
-<h3 align="center">ML/AI Engineer - MSc in Artificial Intelligence @ University of Bologna</h3>
+<h3 align="center">Dara Scientist - MSc in Artificial Intelligence @ University of Bologna</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parsa-dahesh/" alt="LinkedIn">
@@ -20,7 +20,7 @@
 
 ### About me:
 
-- :computer: **AI Engineer** at Iconsulting currently working on sales forecasting
+- :computer: **Data Scientist** at Iconsulting currently working on sales forecasting
 - :racing_car: Passionate about **AI** and **Motorsports**!
 - :man_technologist: Most of my projects are available on my **[GitHub](https://github.com/ParsaD23)**
 - :e-mail: Reach me at **[dinoco.parsa23@gmail.com](mailto:dinoco.parsa23@gmail.com)**
