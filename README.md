@@ -20,7 +20,8 @@
 
 ### About me:
 
-- :computer: **Data Scientist** at Iconsulting currently working on sales forecasting
+- :computer: **Data Scientist** at Avanade
+- :briefcase: 2+ years of experience, working on Time Series Forecasting, Classification, and Object Detection models
 - :racing_car: Passionate about **AI** and **Motorsports**!
 - :man_technologist: Most of my projects are available on my **[GitHub](https://github.com/ParsaD23)**
 - :e-mail: Reach me at **[dinoco.parsa23@gmail.com](mailto:dinoco.parsa23@gmail.com)**
