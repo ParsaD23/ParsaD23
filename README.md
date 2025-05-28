@@ -34,18 +34,10 @@
 
 ### Top Repositories:
 
-<a href="https://github.com/ParsaD23/MotoGP-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=MotoGP-API&theme=transparent"/>
-</a>
-<a href="https://github.com/ParsaD23/PyTorch_Trainer_Template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=PyTorch_Trainer_Template&theme=transparent"/>
-</a>
-<a href="https://github.com/ParsaD23/Racing-Line-Optimization-with-PSO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=Racing-Line-Optimization-with-PSO&theme=transparent"/>
-</a>
-<a href="https://github.com/ParsaD23/kmeans_OpenMP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=kmeans_OpenMP&theme=transparent"/>
-</a>
+| ![https://github.com/ParsaD23/MotoGP-API](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=MotoGP-API&theme=transparent&hide_border=true) | ![https://github.com/ParsaD23/PyTorch_Trainer_Template](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=PyTorch_Trainer_Template&theme=transparent&hide_border=true) |
+| --------- | ----------|
+| ![https://github.com/ParsaD23/Racing-Line-Optimization-with-PSO](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=Racing-Line-Optimization-with-PSO&theme=transparent&hide_border=true) | ![https://github.com/ParsaD23/kmeans_OpenMP](https://github-readme-stats.vercel.app/api/pin/?username=ParsaD23&repo=kmeans_OpenMP&theme=transparent&hide_border=true) |
+
 
 ### My skills:
 
