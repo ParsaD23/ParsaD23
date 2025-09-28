@@ -1,7 +1,7 @@
 <img src="https://github.com/ParsaD23/ParsaD23/blob/main/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="center">Hi everyone 👋, I'm Parsa !</h1>
-<h3 align="center">Data Scientist - MSc in Artificial Intelligence @ University of Bologna</h3>
+<h3 align="center">Data Scientist - MSc in Artificial Intelligence</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parsa-dahesh/" alt="LinkedIn">
@@ -21,7 +21,7 @@
 ### About me:
 
 - :computer: **Data Scientist** at Avanade
-- :briefcase: 2+ years of experience, working on Time Series Forecasting, Classification, and Object Detection models
+- :briefcase: 3 YoE in the consulting industry, working on Computer Vision, Time Series Forecasting, Constraint Programming and LLMs
 - :racing_car: Passionate about **AI** and **Motorsports**!
 - :man_technologist: Most of my projects are available on my **[GitHub](https://github.com/ParsaD23)**
 - :e-mail: Reach me at **[dinoco.parsa23@gmail.com](mailto:dinoco.parsa23@gmail.com)**
