@@ -20,7 +20,7 @@
 
 ### About me:
 
-- :computer: **Data Scientist** at Avanade
+- :computer: **Data Scientist** at EY
 - :briefcase: 3 YoE in the consulting industry, working on Computer Vision, Time Series Forecasting, Constraint Programming and LLMs
 - :racing_car: Passionate about **AI** and **Motorsports**!
 - :man_technologist: Most of my projects are available on my **[GitHub](https://github.com/ParsaD23)**
